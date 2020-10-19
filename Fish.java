@@ -6,7 +6,7 @@ public class Fish{
 	//method
 	public void Swim (){
 
-		System.out.println(color + " fish swim");
+		System.out.println(color + " fish swim");//implemntation
 	}
 
 	public void SetColor(String warna){

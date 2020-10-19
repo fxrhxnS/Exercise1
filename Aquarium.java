@@ -6,7 +6,7 @@ public class Aquarium {
 		Fish fish1 = new Fish();
 		//fish1.color = "green";
 		//System.out.println("Many " + fish1.color + "fish here" );
-		fish1.SetColor("green");
+		fish1.SetColor("turquoise");
 		System.out.println("Many " + fish1.GetColor() + "fish here" );
 		fish1.Swim();
 	}
